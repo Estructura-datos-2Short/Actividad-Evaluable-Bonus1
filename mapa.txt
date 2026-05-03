@@ -1,0 +1,15 @@
+Centro Parque 4
+Centro Hospital 8
+Parque Universidad 5
+Parque Biblioteca 7
+Hospital Universidad 2
+Hospital Terminal 10
+Universidad Estacion 6
+Estacion Terminal 4
+Estacion Estadio 2
+Terminal Estadio 5
+Biblioteca Museo 3
+Biblioteca Alcaldia 5
+Museo Alcaldia 4
+Alcaldia Centro 6
+Estadio Parque 9
